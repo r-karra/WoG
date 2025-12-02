@@ -1,0 +1,2 @@
+# WoG
+Word of God
