@@ -1,0 +1,10 @@
+# Ignore Colab config folders
+.config/
+sample_data/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# (Optional) Ignore data if you decide to keep it private later
+# data/
